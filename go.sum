@@ -1,0 +1,4 @@
+github.com/go-chi/chi/v5 v5.0.7 h1:rDTPXLDHGATaeHvVlLcR4Qe0zftYethFucbjVQ1PxU8=
+github.com/go-chi/chi/v5 v5.0.7/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
+github.com/siwonpawel/go-stdnum v0.0.0-20220807141518-b8db5a1151bc h1:cscuKQzruWLQVKYqYJ6+sQU/sIETgIrAK19q3zrpsKc=
+github.com/siwonpawel/go-stdnum v0.0.0-20220807141518-b8db5a1151bc/go.mod h1:1mt+jUwSEYCe5lqDnJpv1XQS3Ft41av+fN+GEKyqhSQ=
